@@ -2,7 +2,7 @@
 import PackageDescription
 
 let package = Package(
-    name: "chatproject",
+    name: "backend",
     platforms: [
        .macOS(.v13)
     ],
